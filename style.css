@@ -18,7 +18,7 @@
     border-radius: 20px;
 }
 .form {
-    min-height: 500px;
+    height: 500px;
     width: 400px;
     /* padding: 30px; */
     display: flex;
